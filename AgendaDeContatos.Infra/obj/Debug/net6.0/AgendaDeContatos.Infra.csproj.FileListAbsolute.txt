@@ -1,0 +1,12 @@
+C:\Users\Gustavo\source\repos\AgendaDeContatos\AgendaDeContatos.Infra\bin\Debug\net6.0\AgendaDeContatos.Infra.deps.json
+C:\Users\Gustavo\source\repos\AgendaDeContatos\AgendaDeContatos.Infra\bin\Debug\net6.0\AgendaDeContatos.Infra.dll
+C:\Users\Gustavo\source\repos\AgendaDeContatos\AgendaDeContatos.Infra\bin\Debug\net6.0\AgendaDeContatos.Infra.pdb
+C:\Users\Gustavo\source\repos\AgendaDeContatos\AgendaDeContatos.Infra\obj\Debug\net6.0\AgendaDeContatos.Infra.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\AgendaDeContatos\AgendaDeContatos.Infra\obj\Debug\net6.0\AgendaDeContatos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\AgendaDeContatos\AgendaDeContatos.Infra\obj\Debug\net6.0\AgendaDeContatos.Infra.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\AgendaDeContatos\AgendaDeContatos.Infra\obj\Debug\net6.0\AgendaDeContatos.Infra.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\AgendaDeContatos\AgendaDeContatos.Infra\obj\Debug\net6.0\AgendaDeContatos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\AgendaDeContatos\AgendaDeContatos.Infra\obj\Debug\net6.0\AgendaDeContatos.Infra.dll
+C:\Users\Gustavo\source\repos\AgendaDeContatos\AgendaDeContatos.Infra\obj\Debug\net6.0\refint\AgendaDeContatos.Infra.dll
+C:\Users\Gustavo\source\repos\AgendaDeContatos\AgendaDeContatos.Infra\obj\Debug\net6.0\AgendaDeContatos.Infra.pdb
+C:\Users\Gustavo\source\repos\AgendaDeContatos\AgendaDeContatos.Infra\obj\Debug\net6.0\ref\AgendaDeContatos.Infra.dll
